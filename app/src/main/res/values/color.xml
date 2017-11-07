@@ -17,5 +17,5 @@
     <color name="delete">#F44336</color>
     <color name="ripple_delete">#FFCDD2</color>
     <color name="fab_starred">#fca503</color>
-    <color name="fab">@color/accent</color>
+    <color name="fab">#455A64</color>
 </resources>
